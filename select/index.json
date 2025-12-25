@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Yellow Magic (Tong Poo)",
+  "base_artist": "Yellow Magic Orchestra",
+  "createdAt": "2025-12-25T11:33:02.963949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yellow Magic (Tong Poo)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/01_Yellow_Magic_(Tong_Poo)_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yellow Magic (Tong Poo)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/02_Yellow_Magic_(Tong_Poo)_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yellow Magic (Tong Poo)",
+      "artist": "YMO",
+      "has_synced": true,
+      "path": "select/03_Yellow_Magic_(Tong_Poo)_YMO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yellow Magic (Tong Poo)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/04_Yellow_Magic_(Tong_Poo)_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yellow Magic (Tong Poo) = イエロー・マジック (東風)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/05_Yellow_Magic_(Tong_Poo)_=_イエロー・マジック_(東風)_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yellow Magic (Tong Poo) (2018 Bob Ludwig Remastering)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/06_Yellow_Magic_(Tong_Poo)_(2018_Bob_Ludwig_Remastering)_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yellow Magic (Tong Poo)",
+      "artist": "YMO",
+      "has_synced": false,
+      "path": "select/pl_01_Yellow_Magic_(Tong_Poo)_YMO.txt"
+    }
+  ]
+}
